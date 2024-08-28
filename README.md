@@ -1,1 +1,1 @@
-<img src="banner.png" width="100"/> Bienvenid@s a mi Github
+# <img src="banner.png"/> Bienvenid@s a mi Github
