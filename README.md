@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@s a mi Github.
 
-![Banner de JustBeingLuis](banner.png)
+![Banner de JustBeingLuis](bnr.png)
 
 👋 ¡Hola! Soy Luis Toscano
 Soy estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander (UIS). Mis principales aficiones incluyen la programación, la tecnología y la inteligencia artificial. Aún estoy en la universidad, pero cada día me esfuerzo por mejorar mis habilidades y aprender algo nuevo.
