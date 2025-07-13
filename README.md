@@ -2,10 +2,17 @@
 
 ![Banner de JustBeingLuis](bnr.png)
 
-👋 ¡Hola! Soy Luis Toscano,
-estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander (UIS). Mis principales aficiones incluyen la programación, la tecnología y la inteligencia artificial. Aún estoy en la universidad, pero cada día me esfuerzo por mejorar mis habilidades y aprender algo nuevo.
+🚀 Bienvenido(a) a mi perfil de GitHub
 
-En mis repositorios, podrás encontrar proyectos que reflejan mi pasión por el desarrollo de software y la innovación tecnológica. Siempre estoy abierto a nuevas ideas y colaboraciones, así que no dudes en conectarte conmigo.
+🎓 Soy estudiante de Ingeniería de Sistemas en la Universidad Industrial de Santander (UIS), una de las universidades públicas más destacadas de Colombia.
+💡 Apasionado por la tecnología, la programación y el desarrollo de soluciones con impacto real en el entorno empresarial y social.
+
+📌 Tengo experiencia en proyectos académicos, investigativos y personales orientados a resolver problemáticas prácticas, combinando fundamentos sólidos de ingeniería con visión estratégica.
+🧪 He participado activamente en procesos de investigación aplicada, lo que me ha permitido fortalecer habilidades analíticas, metodológicas y de trabajo en equipo multidisciplinario.
+
+💼 Cada uno de los repositorios publicados refleja mi compromiso con la calidad, la documentación clara y las buenas prácticas de desarrollo.
+
+🔗 Abierto a colaboraciones, proyectos y oportunidades de crecimiento profesional.
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
