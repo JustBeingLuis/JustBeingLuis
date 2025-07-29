@@ -4,7 +4,7 @@
 
 ## 🚀 Hello there!
 
-I'm **Luis Mario Toscano Palomino**, a passionate Full Stack Developer and Systems Engineering student at the **Universidad Industrial de Santander (UIS)** — one of Colombia's top public universities.
+I'm **Luis Mario Toscano Palomino**, a passionate Full Stack Developer and Computer science student at the **Universidad Industrial de Santander (UIS)** — one of Colombia's top public universities.
 
 I enjoy building scalable web applications and contributing to applied research projects that address real-world challenges in **biomedicine**, **computer vision**, and **intelligent systems**.
 
